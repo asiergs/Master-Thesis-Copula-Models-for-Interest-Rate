@@ -1,10 +1,12 @@
 # Master Thesis Copula Models for Interest Rate
-Full master thesis can be read in the following link [Internal_Model_Project_Actuarial_Statistics.pdf](https://github.com/asiergs/Internal-Model-Project-Actuarial-Statistics/blob/main/Internal_Model_Project_Actuarial_Statistics.pdf). The PowerPoint presentation (in spanish) can be found in the following link.
+Full master thesis can be read in the following link [MasterThesiso_CopulaModelProposalForInterestRateAndEquityShocksAggregationUnderSolvencyII.pdf](https://github.com/asiergs/Master-Thesis-Copula-Models-for-Interest-Rate/blob/main/MasterThesis_AsierGilSedano_CopulaModelProposalForInterestRateAndEquityShocksAggregationUnderSolvencyII.pdf). The PowerPoint presentation (in spanish) can be found in the following link.
 Insurance companies, due to their business nature, are exposed to multiple risks. These risks begin with the signing of an insurance contract, where the company commits to some uncertain future payments, which in some cases can be doubly uncertain in terms of frequency and severity.
 However, claims risks are not the only risks that insurance companies must face. For example, there are additional risks due to the financial component needed to be provided in the insurance products, where guaranteed returns are sometimes promised, especially in long-term products such as lifetime annuities. To achieve these returns, companies must invest in the market by acquiring financial assets that provide the necessary profitability to meet their obligations, with assets varying from fixed income to equity values such as stocks or linked bonds.
 The Solvency II regulation recently introduced and mandatory in many European countries since 2016 establishes a framework that considers all the risks to which an insurance company is exposed. This way all insurance companies can provide a more self-adapted solvency capital calculation in comparison to the calculation required by previous regulation. This way, the capital requirements criteria are also unified so all companies are considering the same risk scheme defined in the regulation.
 The following illustration shows the risk map proposed by the regulation Solvency II:
-
+<p align="center">
+   <img src="https://raw.githubusercontent.com/asiergs/Master-Thesis-Copula-Models-for-Interest-Rate/main/solvencyIImap.svg" alt="2400"/>
+</p>
 When it comes to risk aggregation, the use of the standard formula provided by the regulation together with the risk correlations provided is the most common practice for insurance companies. However, there are other more complex alternatives that allow for a more appropriate aggregation of company risks, such as internal models that can use the same risk map or another if considered more appropriate.
 Master thesis in Actuarial Science
 2
