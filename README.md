@@ -5,7 +5,7 @@ However, claims risks are not the only risks that insurance companies must face.
 The Solvency II regulation recently introduced and mandatory in many European countries since 2016 establishes a framework that considers all the risks to which an insurance company is exposed. This way all insurance companies can provide a more self-adapted solvency capital calculation in comparison to the calculation required by previous regulation. This way, the capital requirements criteria are also unified so all companies are considering the same risk scheme defined in the regulation.
 The following illustration shows the risk map proposed by the regulation Solvency II:
 <p align="center">
-   <img src="https://raw.githubusercontent.com/asiergs/Master-Thesis-Copula-Models-for-Interest-Rate/main/solvencyIIriskmap.svg" alt="2400"/>
+   <img src="https://raw.githubusercontent.com/asiergs/Master-Thesis-Copula-Models-for-Interest-Rate/main/solvencyIImaprisk.svg" alt="2400"/>
 </p>
 When it comes to risk aggregation, the use of the standard formula provided by the regulation together with the risk correlations provided is the most common practice for insurance companies. However, there are other more complex alternatives that allow for a more appropriate aggregation of company risks, such as internal models that can use the same risk map or another if considered more appropriate.
 Master thesis in Actuarial Science
